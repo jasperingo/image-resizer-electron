@@ -1,0 +1,17 @@
+{
+  "name": "image-resizer-electron",
+  "version": "1.0.0",
+  "description": "An app to resize images",
+  "productName": "Image Resizer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jasper Anelechukwu",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^27.0.4",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
